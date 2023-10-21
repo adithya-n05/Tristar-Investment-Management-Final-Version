@@ -1,0 +1,23 @@
+﻿Trade date;Banking relationship;Portfolio;Group of products;Product;Ccy.;Number/Amt.;Valor;ISIN;Cost price;Buy exchange rate;Sector;Rating;Description 1;Description 2;Description 3;Description 4;Description 5;Duration;Cost value;Market price;Date;Unrealized P/L;Market value;Accrued interest;% NA; ; ; ; ; ; ; ;X
+06.10.2023;0546 00857711;0546 00857711 0001;Bonds - Bond investments;0546 00857711.N1;USD;12'272.089;1032584;LU0095030564;28.52;;All sectors;No rating available;AB FCP I FCP - American Income;Portfolio A2;0546 00857711.N1        Country of custody: CH; ; ; ;350'000;28.13;05.10.2023;-1.37%;345'214;;6.11; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Bonds - Bond investments;0546 00857711.N1;USD;25'728.988;3798237;IE00B3FNF870;11.66;;All sectors;No rating available;PIMCO Funds Global Investors;Series Plc - Global Bond Fund;E-USD-currency exposure-acc;0546 00857711.N1        Country of custody: CH; ; ;300'000;11.21;05.10.2023;-3.86%;288'422;;5.11; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Bonds - Bond investments;0546 00857711.N1;USD;34'516.765;122557822;LU2530431480;10.14;;All sectors;No rating available;Capital International Fund SICAV -;Group Multi-Sector Income;Fund (LUX) B-capitisation;0546 00857711.N1        Country of custody: CH; ; ;350'000;10.12;05.10.2023;-0.2%;349'310;;6.18; ; ; ; ; ; ; ; 
+Detailed positions: Bonds - Bond investments from;06.10.2023; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+Trade date;Banking relationship;Portfolio;Group of products;Product;Ccy.;Number/Amt.;Valor;ISIN;Cost price;Buy exchange rate;Sector;Rating;Description 1;Description 2;Description 3;Description 4;Description 5;Duration;Cost value;Market price;Date;Unrealized P/L;Market value;Accrued interest;% NA; ; ; ; ; ; ; ;X
+06.10.2023;0546 00857711;0546 00857711 0001;Equities - Structured products & derivatives;0546 00857711.N1;USD;5'000'000;123426263;XS2537106598;100%;;All sectors;No rating available;0 % Medium Term Notes Harp Issuer;Plc 2022-21.09.2029;0546 00857711.N1        Country of custody: CH; ; ;30.11.2029;5'000'000;92.632%;06.10.2023;-7.37%;4'631'600;FLAT;82.00; ; ; ; ; ; ; ; 
+Detailed positions: Equities - Structured products & derivatives from;06.10.2023; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+Trade date;Banking relationship;Portfolio;Group of products;Product;Ccy.;Number/Amt.;Valor;ISIN;Cost price;Buy exchange rate;Sector;Rating;Account no.;Description 1;Description 2;Description 3;Description 4;Description 5;Category;Interest;Duration;Accrued interest;Market value;% NA; ; ; ; ; ; ; ; ;X
+06.10.2023;0546 00857711;0546 00857711 0001;Liquidity - Accounts;0546 00857711.01B;USD;33'736.55;;; ;;;;0546 00857711.01B;UBS Current Account for Private Clients;0546 00857711.01B; ; ; ;; ;;;33'737;0.60; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Liquidity - Accounts;0546 00857711.02E;SGD;0;;; ;;;;0546 00857711.02E;UBS Current Account for Private Clients;0546 00857711.02E; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Liquidity - Accounts;0546 00857711.03M;EUR;0;;; ;;;;0546 00857711.03M;UBS Current Account for Private Clients;0546 00857711.03M; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Liquidity - Accounts;0546 00857711.04C;HKD;0;;; ;;;;0546 00857711.04C;UBS Current Account for Private Clients;0546 00857711.04C; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Liquidity - Accounts;0546 00857711.05L;GBP;0;;; ;;;;0546 00857711.05L;UBS Current Account for Private Clients;0546 00857711.05L; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00857711;0546 00857711 0001;Liquidity - Accounts;0546 00857711.06R;JPY;0;;; ;;;;0546 00857711.06R;UBS Current Account for Private Clients;0546 00857711.06R; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+Detailed positions: Liquidity - Accounts from;06.10.2023; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Exchange rates; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+EUR/USD;1.053850;USD/EUR;0.948902; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+GBP/USD;1.218900;USD/GBP;0.820412; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+JPY/USD;0.006695;USD/JPY;149.369993; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+HKD/USD;0.127693;USD/HKD;7.831300; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+SGD/USD;0.730941;USD/SGD;1.368100; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X

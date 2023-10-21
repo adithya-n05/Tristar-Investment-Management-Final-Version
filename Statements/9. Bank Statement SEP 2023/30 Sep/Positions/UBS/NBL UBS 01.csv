@@ -1,0 +1,11 @@
+﻿Trade date;Banking relationship;Portfolio;Group of products;Product;Ccy.;Number/Amt.;Valor;ISIN;Cost price;Buy exchange rate;Sector;Rating;Account no.;Description 1;Description 2;Description 3;Description 4;Description 5;Category;Interest;Duration;Accrued interest;Market value;% NA; ; ; ; ; ; ; ; ;X
+06.10.2023;0546 00837125;0546 00837125 0001;Liquidity - Accounts;0546 00837125.02J;EUR;0;;; ;;;;0546 00837125.02J;UBS Current Account for Private Clients;0546 00837125.02J; ; ; ;; ;;;0;0.00; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00837125;0546 00837125 0001;Liquidity - Accounts;0546 00837125.01K;USD;21'644.77;;; ;;;;0546 00837125.01K;UBS Current Account for Private Clients;0546 00837125.01K; ; ; ;; ;;;21'645;100.00; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00837125;0546 00837125 0001;Liquidity - Accounts;0546 00837125.03U;HKD;0;;; ;;;;0546 00837125.03U;UBS Current Account for Private Clients;0546 00837125.03U; ; ; ;; ;;;0;0.00; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00837125;0546 00837125 0001;Liquidity - Accounts;0546 00837125.08D;SGD;0;;; ;;;;0546 00837125.08D;UBS Current Account for Private Clients;0546 00837125.08D; ; ; ;; ;;;0;0.00; ; ; ; ; ; ; ; ; 
+Detailed positions: Liquidity - Accounts from;06.10.2023; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Exchange rates; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+EUR/USD;1.053850;USD/EUR;0.948902; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+HKD/USD;0.127693;USD/HKD;7.831300; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+SGD/USD;0.730941;USD/SGD;1.368100; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X

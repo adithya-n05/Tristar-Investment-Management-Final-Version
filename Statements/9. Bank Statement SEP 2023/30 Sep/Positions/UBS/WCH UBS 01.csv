@@ -1,0 +1,18 @@
+﻿Trade date;Banking relationship;Portfolio;Group of products;Product;Ccy.;Number/Amt.;Valor;ISIN;Cost price;Buy exchange rate;Sector;Rating;Description 1;Description 2;Description 3;Description 4;Description 5;Duration;Cost value;Market price;Date;Unrealized P/L;Market value;Accrued interest;% NA; ; ; ; ; ; ; ;X
+06.10.2023;0546 00887711;0546 00887711 0001;Equities - Structured products & derivatives;0546 00887711.N1;USD;5'000'000;123426263;XS2537106598;100%;;All sectors;No rating available;0 % Medium Term Notes Harp Issuer;Plc 2022-21.09.2029;0546 00887711.N1        Country of custody: CH; ; ;30.11.2029;5'000'000;92.632%;06.10.2023;-7.37%;4'631'600;FLAT;100.16; ; ; ; ; ; ; ; 
+Detailed positions: Equities - Structured products & derivatives from;06.10.2023; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+Trade date;Banking relationship;Portfolio;Group of products;Product;Ccy.;Number/Amt.;Valor;ISIN;Cost price;Buy exchange rate;Sector;Rating;Account no.;Description 1;Description 2;Description 3;Description 4;Description 5;Category;Interest;Duration;Accrued interest;Market value;% NA; ; ; ; ; ; ; ; ;X
+06.10.2023;0546 00887711;0546 00887711 0001;Liquidity - Accounts;0546 00887711.01H;USD;-7'560.05;;; ;;;;0546 00887711.01H;UBS Current Account for Private Clients;0546 00887711.01H; ; ; ;; ;;-12;-7'560;-0.16; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00887711;0546 00887711 0001;Liquidity - Accounts;0546 00887711.02G;SGD;0;;; ;;;;0546 00887711.02G;UBS Current Account for Private Clients;0546 00887711.02G; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00887711;0546 00887711 0001;Liquidity - Accounts;0546 00887711.03P;EUR;0;;; ;;;;0546 00887711.03P;UBS Current Account for Private Clients;0546 00887711.03P; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00887711;0546 00887711 0001;Liquidity - Accounts;0546 00887711.04K;HKD;0;;; ;;;;0546 00887711.04K;UBS Current Account for Private Clients;0546 00887711.04K; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00887711;0546 00887711 0001;Liquidity - Accounts;0546 00887711.05J;GBP;0;;; ;;;;0546 00887711.05J;UBS Current Account for Private Clients;0546 00887711.05J; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+06.10.2023;0546 00887711;0546 00887711 0001;Liquidity - Accounts;0546 00887711.06U;JPY;0;;; ;;;;0546 00887711.06U;UBS Current Account for Private Clients;0546 00887711.06U; ; ; ;; ;;;0;; ; ; ; ; ; ; ; ; 
+Detailed positions: Liquidity - Accounts from;06.10.2023; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Exchange rates; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+EUR/USD;1.053850;USD/EUR;0.948902; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+GBP/USD;1.218900;USD/GBP;0.820412; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+JPY/USD;0.006695;USD/JPY;149.369993; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+HKD/USD;0.127693;USD/HKD;7.831300; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
+SGD/USD;0.730941;USD/SGD;1.368100; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;X
